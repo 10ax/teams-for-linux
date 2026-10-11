@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.25.1](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.25.0...v2.25.1) (2026-10-11)
+
+
+### Documentation
+
+* **troubleshooting:** update fontconfig cache clearing steps ([#3093](https://github.com/IsmaelMartinez/teams-for-linux/issues/3093)) ([2e19058](https://github.com/IsmaelMartinez/teams-for-linux/commit/2e19058a9b9eb517f1ce4a240c9eb82ba2f08b8f))
+
 ## [2.25.0](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.24.0...v2.25.0) (2026-10-09)
 
 
